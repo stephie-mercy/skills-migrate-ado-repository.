@@ -21,7 +21,7 @@ fi
 
 
 # Initialize variables
-ADO_PAT="BmbD1NifiNuaqSLmJIfL8oksUJUjXVYQcIxRqmYMoZAt9qMOXilQJQQJ99BLACAAAAAAAAAAAAASAZDO1G8O"
+ADO_PAT=""
 
 # Function to display usage
 usage() {

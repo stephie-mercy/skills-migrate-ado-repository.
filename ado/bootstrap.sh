@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script to bootstrap Azure DevOps project using Terraform
-# Usage: ./bootstrap.sh --ado-token <token>
+# Usage: ./bootstrap.sh --ado-token "BmbD1NifiNuaqSLmJIfL8oksUJUjXVYQcIxRqmYMoZAt9qMOXilQJQQJ99BLACAAAAAAAAAAAAASAZDO1G8O"
 
 set -e  # Exit on any error
 
